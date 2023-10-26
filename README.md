@@ -14,6 +14,8 @@ Welcome to this "Autogen" GitHub repository! AutoGen is a powerful framework des
 ## Examples
 
 ## Setup
+- You can create a virtual environment with venv: `python3 -m venv autogen` `source autogen/bin/activate`. Another option is with Conda, `conda create -n autogen python=3.10  # python 3.10 is recommended as it's stable and not too old` `conda activate autogen`
+- AutoGen requires Python version >= 3.8. It can be installed from pip: `pip install pyautogen`
 
 ## Documentation
 
@@ -31,10 +33,10 @@ Welcome to this "Autogen" GitHub repository! AutoGen is a powerful framework des
 
 - [Getting Started](https://microsoft.github.io/autogen/docs/Getting-Started)
 
-- []()
+- [Installation](https://microsoft.github.io/autogen/docs/Installation)
 
-- []()
+- [Multi-agent Conversation Framework](https://microsoft.github.io/autogen/docs/Use-Cases/agent_chat)
 
-- []()
+- [Enhanced Inference](https://microsoft.github.io/autogen/docs/Use-Cases/enhanced_inference/)
 
-- []()
+- [SDK](https://microsoft.github.io/autogen/docs/reference/agentchat/groupchat)
