@@ -13,6 +13,12 @@ Welcome to this "Autogen" GitHub repository! AutoGen is a powerful framework des
 
 ## Examples
 
+`Notebook - agentchat_groupchat.ipynb` <br>
+`Results - `
+
+`Notebook - agentchat_groupchat_vis.ipynb` <br>
+`Results - `
+
 ## Setup
 - You can create a virtual environment with venv: `python3 -m venv autogen` `source autogen/bin/activate`. Another option is with Conda, `conda create -n autogen python=3.10  # python 3.10 is recommended as it's stable and not too old` `conda activate autogen`
 - AutoGen requires Python version >= 3.8. It can be installed from pip: `pip install pyautogen`
