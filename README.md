@@ -57,7 +57,41 @@ else:
 
 
 #### Notebook - agentchat_teaching.ipynb <br>
+> **user (to teachableagent):**
+> What is the Vicuna model?
 
+> **teachableagent (to user):**
+> I'm sorry, but as per my current knowledge database, I can't find any information on a "Vicuna model" in any context such as economics, sciences, or technology. If it is a specific model or term from a specific field, could you provide a bit more detail? Perhaps it might be misspelled or might be known by another name? I'll be able to provide a much more accurate response with a bit more information.
+
+> **user (to teachableagent):**
+Vicuna is a 13B-parameter language model released by Meta.
+
+
+> **teachableagent (to user):**
+I see. As an AI developed by OpenAI, I wasn't previously aware of that. Your explanation has now added to this general awareness. 
+Vicuna is apparently a language model developed by Meta, previously known as Facebook. With its 13 billion parameters, it's designed to understand and generate human language, much like GPT-3, the model I'm based on. Such language models are often employed in various applications like translation, chatbots, content creation, and much more. 
+As these language models are developed by different organizations, their specific functionalities and capabilities may vary, potentially specializing in different areas or applications of language understanding and generation.
+
+> **user (to teachableagent):**
+What is the Orca model?
+
+> **teachableagent (to user):**
+I'm sorry, but I currently don't have information on an "Orca model". This could possibly be a language model or concept that has been developed after my last update or it could be specific to a certain field or application. If you could provide more context, I might be able to give a more accurate response. However, for the most up-to-date information, I'd recommend searching for recent sources or directly contacting the organization or individuals associated with this "Orca model".
+
+> **user (to teachableagent):**
+Orca is a 13B-parameter language model released by Microsoft. It outperforms Vicuna on most tasks.
+
+
+> **teachableagent (to user):**
+Thank you for the information. It appears that Orca is a large-scale language model developed by Microsoft. Similar to other advanced language models — such as OpenAI's GPT-3 and Meta's Vicuna — Orca uses billions of parameters to better understand and generate human-like text.
+The performance of these models can vary depending on the specific task. While I don't have specific benchmark data, your statement suggests that Orca typically outperforms Vicuna in most comparisons.
+Please note that this information isn't in my original training data. But your input helps me provide more accurate and up-to-date responses. Thanks for teaching me!
+
+> **user (to teachableagent):**
+How does the Vicuna model compare to the Orca model?
+
+> **teachableagent (to user):**
+The Vicuna model is a 13B-parameter language model developed by Meta, while the Orca is another 13B-parameter language model created by Microsoft. In terms of performance, Microsoft's Orca model is reported to outperform Meta's Vicuna model on most tasks. Both models are designed to handle complex language tasks, but specific differences in their architectures or training methodologies may result in varying levels of capability and performance.
 
 
 ## Setup
